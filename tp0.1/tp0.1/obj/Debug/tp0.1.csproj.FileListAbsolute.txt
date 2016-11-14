@@ -1,0 +1,2 @@
+c:\users\usuario\documents\visual studio 2015\Projects\tp0.1\tp0.1\bin\Debug\tp0.1.exe.config
+C:\Users\Usuario\Desktop\Emplear0.1\tp0.1\tp0.1\bin\Debug\tp0.1.exe.config
