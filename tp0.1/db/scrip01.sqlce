@@ -1,18 +1,25 @@
-create table Usuarios
+﻿create table Usuarios
 (
 	Login				nvarchar(20) 	not null Primary Key,
 	FechaLogin			datetime,
 	IntentosErroneos 	int,
 	IDPerfil			int				not null,
-	constraint FK_XXXX	foreign key (IDPerfil)	REFERENCES	Perfiles (ID_PERFIL)
+	constraint FK_XXXX	foreign key (ID_Perfil)	REFERENCES	Perfiles (ID_Perfil)
+	
 )
+go
 
-SELECT * FROM Usuarios
+
 
 CREATE TABLE Perfiles
 (
 	ID_Perfil			int				not null	identity	primary key,
 	Descripcion			nvarchar(50)	not null
+	constraint PK_Perfiles	primary key (ID_Perfil)
 )
+go
 
-SELECT * FROM Perfiles
+insert into Perfiles (Descripcion) values ('root')
+select * from Perfiles
+select * from usuarios
+delete from Usuarios

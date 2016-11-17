@@ -1,2 +1,19 @@
 c:\users\usuario\documents\visual studio 2015\Projects\tp0.1\tp0.1\bin\Debug\tp0.1.exe.config
 C:\Users\Usuario\Desktop\Emplear0.1\tp0.1\tp0.1\bin\Debug\tp0.1.exe.config
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\tp0.1.exe.config
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\tp0.1.exe
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\tp0.1.pdb
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\Data.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\Entidades.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\Data.pdb
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\obj\Debug\tp0.1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\obj\Debug\tp0.1.exe
+C:\Users\Usuario\Source\Repos\Emplear0.1\tp0.1\tp0.1\obj\Debug\tp0.1.pdb
